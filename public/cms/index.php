@@ -249,7 +249,7 @@
     <h1>Sistem Manajemen Blog (CMS)</h1>
     <small>Blog Admin</small>
   </div>
-  <a class="header-link" href="beranda.php" target="_blank">Halaman Pengunjung</a>
+  <a class="header-link" href="/" target="_blank">Halaman Pengunjung</a>
 </div>
 
 <!-- LAYOUT -->
